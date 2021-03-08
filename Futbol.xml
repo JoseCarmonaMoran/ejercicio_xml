@@ -1,0 +1,137 @@
+<fecha id="41833" fecha="20140401" fechadesde="20140401"
+           fechahasta="20140409" nombre="Llave 1" nombrenivel="Cuartos de Final"
+           nivel="3" orden="1" nombreDia="Martes" fn="1" estado="actual">
+        <partido id="181965" fecha="20140401" hora="15:45:00"
+                 lugarCiudad="Barcelona" nombreEstadio="Camp Nou" clubEstadio=""
+                 idEstadio="26" nombreDia="Martes" nivelCarga="1"
+                 nivelCobertura="700" ordenAgenda="0" tipo="ida" nro="113" nd=""
+                 idGan="" nomGan="" ptsGan="1">
+            <estado id="2">Finalizado</estado>
+            <horaEstado>17:37:43</horaEstado>
+            <local id="31" paisId="2" pais="España" paisSigla="ESP"
+                   nombreCorto="" nombreasociacion="" sigla="BAR"
+                   nc="Barcelona">Barcelona
+            </local>
+            <goleslocal>1</goleslocal>
+            <goleadoreslocal>
+                <jugador nombre="Neymar" nom="Neymar"
+                         ape="da Silva Santos Junior"
+                         nombreCompleto="Neymar da Silva Santos Junior"
+                         jugadorId="44773">
+                    <goles>
+                        <gol tipo="goles totales" cantidad="1"/>
+                    </goles>
+                </jugador>
+            </goleadoreslocal>
+            <golesDefPenaleslocal></golesDefPenaleslocal>
+            <visitante id="29" paisId="2" pais="España" paisSigla="ESP"
+                       nombreCorto="Atlético" nombreasociacion="" sigla="ATM"
+                       nc="A. Madrid">At. Madrid
+            </visitante>
+            <golesvisitante>1</golesvisitante>
+            <goleadoresvisitante>
+                <jugador nombre="Diego" nom="Diego" ape="Ribas Da Cunha"
+                         nombreCompleto="Diego Ribas Da Cunha"
+                         jugadorId="23037">
+                    <goles>
+                        <gol tipo="goles totales" cantidad="1"/>
+                    </goles>
+                </jugador>
+            </goleadoresvisitante>
+            <golesDefPenalesvisitante></golesDefPenalesvisitante>
+            <arbitro id="26171" nombre="Brych, Felix" nc="F. Brych"
+                     pais="Alemania"/>
+            <medios>
+                <medio id="9" nombre="ESPN"/>
+                <medio id="10011" nombre="ESPN HD"/>
+            </medios>
+        </partido>
+        <partido id="181969" fecha="20140409" hora="15:45:00"
+                 lugarCiudad="Madrid" nombreEstadio="Vicente Calderón"
+                 clubEstadio="" idEstadio="24" nombreDia="Miércoles"
+                 nivelCarga="1" nivelCobertura="700" ordenAgenda="4"
+                 tipo="vuelta" nro="114" nd="" idGan="" nomGan="" ptsGan="1">
+            <estado id="0"></estado>
+            <horaEstado></horaEstado>
+            <local id="29" paisId="2" pais="España" paisSigla="ESP"
+                   nombreCorto="Atlético" nombreasociacion="" sigla="ATM"
+                   nc="A. Madrid">At. Madrid
+            </local>
+            <goleslocal></goleslocal>
+            <goleadoreslocal></goleadoreslocal>
+            <golesDefPenaleslocal></golesDefPenaleslocal>
+            <visitante id="31" paisId="2" pais="España" paisSigla="ESP"
+                       nombreCorto="" nombreasociacion="" sigla="BAR"
+                       nc="Barcelona">Barcelona
+            </visitante>
+            <golesvisitante></golesvisitante>
+            <goleadoresvisitante></goleadoresvisitante>
+            <golesDefPenalesvisitante></golesDefPenalesvisitante>
+            <medios></medios>
+        </partido>
+        <ganadores></ganadores>
+    </fecha>
+    <fecha id="41834" fecha="20140401" fechadesde="20140402"
+           fechahasta="20140408" nombre="Llave 2" nombrenivel="Cuartos de Final"
+           nivel="3" orden="2" nombreDia="Martes" fn="2" estado="">
+        <partido id="181966" fecha="20140402" hora="15:45:00"
+                 lugarCiudad="Madrid" nombreEstadio="Santiago Bernabéu"
+                 clubEstadio="" idEstadio="37" nombreDia="Miércoles"
+                 nivelCarga="1" nivelCobertura="700" ordenAgenda="0" tipo="ida"
+                 nro="115" nd="" idGan="39" nomGan="Real Madrid" ptsGan="3">
+            <estado id="1">Primer Tiempo</estado>
+            <horaEstado>15:45:15</horaEstado>
+            <local id="39" paisId="2" pais="España" paisSigla="ESP"
+                   nombreCorto="" nombreasociacion="" sigla="RMA"
+                   nc="R. Madrid">Real Madrid
+            </local>
+            <goleslocal>1</goleslocal>
+            <goleadoreslocal>
+                <jugador nombre="G. Bale" nom="Gareth" ape="Bale"
+                         nombreCompleto="Gareth Bale" jugadorId="27818">
+                    <goles>
+                        <gol tipo="goles totales" cantidad="1"/>
+                    </goles>
+                </jugador>
+            </goleadoreslocal>
+            <golesDefPenaleslocal></golesDefPenaleslocal>
+            <visitante id="707" paisId="26" pais="Alemania" paisSigla="GER"
+                       nombreCorto="B. Dortmund" nombreasociacion="" sigla="DOR"
+                       nc="B. Dortmund">Borussia Dortmund
+            </visitante>
+            <golesvisitante>0</golesvisitante>
+            <goleadoresvisitante></goleadoresvisitante>
+            <golesDefPenalesvisitante></golesDefPenalesvisitante>
+            <arbitro id="19092" nombre="Clattenburg, Mark" nc="M. Clattenburg"
+                     pais="Inglaterra"/>
+            <medios>
+                <medio id="10" nombre="Fox Sports"/>
+                <medio id="600" nombre="Fox Sports HD"/>
+            </medios>
+        </partido>
+        <partido id="181970" fecha="20140408" hora="15:45:00"
+                 lugarCiudad="Dortmund" nombreEstadio="Signal Iduna Park"
+                 clubEstadio="Borussia Dortmund" idEstadio="699"
+                 nombreDia="Martes" nivelCarga="1" nivelCobertura="700"
+                 ordenAgenda="2" tipo="vuelta" nro="116" nd="" idGan=""
+                 nomGan="" ptsGan="1">
+            <estado id="0"></estado>
+            <horaEstado></horaEstado>
+            <local id="707" paisId="26" pais="Alemania" paisSigla="GER"
+                   nombreCorto="B. Dortmund" nombreasociacion="" sigla="DOR"
+                   nc="B. Dortmund">Borussia Dortmund
+            </local>
+            <goleslocal></goleslocal>
+            <goleadoreslocal></goleadoreslocal>
+            <golesDefPenaleslocal></golesDefPenaleslocal>
+            <visitante id="39" paisId="2" pais="España" paisSigla="ESP"
+                       nombreCorto="" nombreasociacion="" sigla="RMA"
+                       nc="R. Madrid">Real Madrid
+            </visitante>
+            <golesvisitante></golesvisitante>
+            <goleadoresvisitante></goleadoresvisitante>
+            <golesDefPenalesvisitante></golesDefPenalesvisitante>
+            <medios></medios>
+        </partido>
+        <ganadores></ganadores>
+    </fecha
